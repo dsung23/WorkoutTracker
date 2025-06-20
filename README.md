@@ -20,4 +20,4 @@ A Simple full-stack application to track your workouts.
 ```bash
 cd backend
 npm install
-npm start
+npm run dev
