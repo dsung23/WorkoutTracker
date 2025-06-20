@@ -21,3 +21,11 @@ A Simple full-stack application to track your workouts.
 cd backend
 npm install
 npm run dev
+```
+
+### Frontend
+
+```bash
+cd frontend
+npm install
+npm start
