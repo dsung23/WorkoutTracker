@@ -1,6 +1,6 @@
 # Workout Tracker
 
-A full-stack application to track your workouts.
+A Simple full-stack application to track your workouts.
 
 ## Features
 
