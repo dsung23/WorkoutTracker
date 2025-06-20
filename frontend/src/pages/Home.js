@@ -19,9 +19,9 @@ const Home = () => {
             }
         }
 
-        fetchWorkouts()
+        fetchWorkouts();
 
-    }, [])
+    }, [dispatch])
 
     return (
         <div className="home">
